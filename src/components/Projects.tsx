@@ -5,7 +5,7 @@ const Projects = () => {
     {
       title: "Web3 Deployer",
       description: "Decentralized hosting platform for deploying websites and dApps using blockchain technology. Features IPFS storage, smart contracts, and Web3Auth for secure authentication.",
-      image: "https://www.google.com/imgres?q=online%20stock%20images&imgurl=https%3A%2F%2Fmedia.istockphoto.com%2Fid%2F1428709516%2Fphoto%2Fshopping-online-woman-hand-online-shopping-on-laptop-computer-with-virtual-graphic-icon.jpg%3Fs%3D612x612%26w%3D0%26k%3D20%26c%3DROAncmFL4lbSQdU4VOhyXu-43ngzfEqHE5ZZAw5FtYk%3D&imgrefurl=https%3A%2F%2Fwww.istockphoto.com%2Fphotos%2Fonline-business&docid=LiMhQQp2iRaNAM&tbnid=6Ks5hRRiaE6sAM&vet=12ahUKEwij1MyKosmPAxXOnGMGHXhsJmoQM3oECBsQAA..i&w=612&h=408&hcb=2&ved=2ahUKEwij1MyKosmPAxXOnGMGHXhsJmoQM3oECBsQAA",
+      image: "../web3.png",
       technologies: ["React.js", "TailwindCSS", "Drizzle ORM", "IPFS", "Web3Auth"],
       github: "https://github.com/Shyam-Prasath/web-3-deployer",
       live: "https://web-3-deployer.vercel.app/",
