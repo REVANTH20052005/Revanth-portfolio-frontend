@@ -54,12 +54,12 @@ const Hero = () => {
           {/* Profile Image */}
           <div className="lg:w-1/2 flex justify-center lg:justify-end">
             <div className="relative animate-fade-in-right">
-              <div className="w-80 h-80 lg:w-96 lg:h-96 rounded-full bg-gradient-to-br from-navy-900 to-navy-700 p-2 shadow-2xl">
+              <div className="w-80 h-90 lg:w-96 lg:h-98 rounded-full bg-gradient-to-br from-navy-900 to-navy-700 p-2 shadow-2xl">
                 <div className="w-full h-full rounded-full bg-csk-yellow flex items-center justify-center overflow-hidden">
                   <img
-                    src="../Revanth passport photo[1].jpg"
+                    src="../Revanth passport photo[2].jpg"
                     alt="Profile"
-                    className="w-[100%] h-full object-cover rounded-full"
+                    className="w-full h-full object-cover rounded-full"
                   />
                 </div>
               </div>
