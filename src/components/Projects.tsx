@@ -5,7 +5,7 @@ const Projects = () => {
     {
       title: "Web3 Deployer",
       description: "Decentralized hosting platform for deploying websites and dApps using blockchain technology. Features IPFS storage, smart contracts, and Web3Auth for secure authentication.",
-      image: "https://freeimage.host/i/Ko1uxrQ",
+      image: ../web3.png",
       technologies: ["React.js", "TailwindCSS", "Drizzle ORM", "IPFS", "Web3Auth"],
       github: "https://github.com/Shyam-Prasath/web-3-deployer",
       live: "https://web-3-deployer.vercel.app/",
@@ -14,7 +14,7 @@ const Projects = () => {
     {
       title: "Sentiment Analysis Using AI",
       description: "Advanced NLP project using machine learning models like BERT for text classification. Implements sentiment analysis with high accuracy using modern AI techniques.",
-      image: "https://freeimage.host/i/Ko1VUhv",
+      image: "../Sentiment-Analysis.png",
       technologies: ["Python", "BERT", "TextBlob", "spaCy", "NLP"],
       github: "https://github.com/REVANTH20052005/Sentiment-Analysis-Using-AI",
       live: "https://github.com/REVANTH20052005/Sentiment-Analysis-Using-AI",
@@ -23,7 +23,7 @@ const Projects = () => {
     {
       title: "Pharmacy Management System",
       description: "Comprehensive pharmacy management solution with inventory tracking, prescription management, and secure user authentication using SHA-256 encryption.",
-      image: "https://freeimage.host/i/Ko1GOMB",
+      image: "../pharma.png",
       technologies: ["Python GUI", "Java Spring Boot", "SQLite3", "SHA-256"],
       github: "https://github.com/Shyam-Prasath/Pharma-System-Using-Python",
       live: "https://github.com/Shyam-Prasath/Pharma-System-Using-Python",
@@ -32,7 +32,7 @@ const Projects = () => {
     {
       title: "Book Authentication System Backend",
       description: "Secure library management system with JWT authentication, password hashing, and comprehensive book and user management functionality.",
-      image: "https://freeimage.host/i/Ko1XBHX",
+      image: "../book.png",
       technologies: ["Node.js", "Express.js", "React.js", "MongoDB", "JWT"],
       github: "https://github.com/Shyam-Prasath/Book-Details-Backend",
       live: "https://github.com/Shyam-Prasath/Book-Details-Backend",
